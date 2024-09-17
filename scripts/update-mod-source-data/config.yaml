@@ -306,7 +306,7 @@ mods:
     tags: ["challenge", "gameplay-mod"]
     website_url: "https://github.com/my-opengoal-mods/OG-Jak-The-Chicken-Reborn/blob/main/README.md"
     cover_art_url: "https://www.speedrun.com/static/game/j1lnnwz6/cover.png?v=47fd2cf"
-    thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/JakChickenSmall.png"
+    thumbnail_art_url: "https://github.com/my-opengoal-mods/OG-Zed-Challenge-1/blob/main/zedOGchall.png?raw=true"
 
 #   daxter-2:
 #     repo_owner: "OpenGOAL-Mods"
