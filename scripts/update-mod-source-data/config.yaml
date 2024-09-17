@@ -293,7 +293,7 @@ mods:
 #     cover_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/ArchipelaGoalLarge.png"
 #     thumbnail_art_url: "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/ArchipelaGoalSmall.png"
 
-  mortin-time:
+  zed-chall-1-test:
     repo_owner: "my-opengoal-mods"
     repo_name: "OG-Zed-Challenge-1"
     url: "https://github.com/my-opengoal-mods/OG-Zed-Challenge-1"
