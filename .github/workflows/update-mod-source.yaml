@@ -36,7 +36,12 @@ jobs:
           cd scripts/update-mod-source-data
           npm ci
           npm run update
-
+          
+      - name: Prettify JSON Files
+        run: |
+          cd scripts/update-mod-source-data
+          npx prettier --write "**/*.json"
+          
       - name: Commit Version Bump
         uses: EndBug/add-and-commit@v9
         with:
